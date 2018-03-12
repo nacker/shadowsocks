@@ -22,5 +22,9 @@ shadowsocks搭建方法
 1. 下载ShowdockSocks Android : https://github.com/shadowsocks/shadowsocks-android/releases
 
 2. 点开APP
+![image description](1.png)
 
 3. 看图依次操作
+![image description](2.png)
+![image description](3.png)
+![image description](4.png)
